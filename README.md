@@ -1,1 +1,2 @@
-# NLP_Parser
+###### ECE467 (Natural Language Processing) Project 1
+# Parser
