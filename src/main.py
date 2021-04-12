@@ -16,8 +16,7 @@ class CellNode:
 # Imports grammar files and stores grammar rules
 def import_grammar():
     # Gets grammar file
-    # grammar_file_name = input("Please enter name of file containing CFG in CNF:\n")
-    grammar_file_name = "../Grammars/CNF Sample Grammar.txt"  # Hardcoded for now
+    grammar_file_name = input("Please enter name of file containing CFG in CNF:\n")
     grammar_file = open(grammar_file_name, 'r')
 
     # Builds dictionary from grammar rules
